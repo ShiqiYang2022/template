@@ -1,4 +1,4 @@
-# README(Edited By Shiqi)
+# README(Edited By Shiqi Yang)
 
 ## **Table of Contents**
 
