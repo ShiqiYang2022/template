@@ -1,6 +1,9 @@
 # `config_user.yaml` is ignored as it contains user-specific settings
 *config_user.yaml
 
+# `/lib/` is ignored for pushing to overleaf
+*lib/
+
 # `/external/` and `/input/` subdirectories are ignored as they should contain symbolic links, which are user-specific and can be automatically created via `gslab_make`
 *external/
 *input/
